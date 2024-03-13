@@ -118,7 +118,20 @@ section {
 }
 
 /* Section & Paragraph */
+figure {
 
+    padding-top:.5rem;
+    text-align: right;
+
+}
+
+img {
+
+    width:100%;
+    margin: 0 auto;
+    max-width:50rem;
+
+}
 
 
 /* Image & Figure */
